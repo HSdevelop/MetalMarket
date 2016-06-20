@@ -24,11 +24,17 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="DTO" />
+        <module name="Logic" />
+        <module name="Parsing" />
+        <module name="Utils" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="DTO" target="1.5" />
+      <module name="Logic" target="1.5" />
       <module name="MetalMarket" target="1.5" />
+      <module name="Parsing" target="1.5" />
+      <module name="Utils" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

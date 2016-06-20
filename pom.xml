@@ -12,6 +12,9 @@
 
     <modules>
         <module>DTO</module>
+        <module>Logic</module>
+        <module>Parsing</module>
+        <module>Utils</module>
 
     </modules>
 
